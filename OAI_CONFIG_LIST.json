@@ -1,0 +1,22 @@
+[
+    {
+        "model": "Mistral",
+        "base_url": "http://localhost:11434/v1",
+        "api_key": "ollama"
+    },
+    {
+        "model": "gemma:7b",
+        "base_url": "http://localhost:11434/v1",
+        "api_key": "ollama"
+    },
+    {
+        "model": "gemma",
+        "base_url": "http://localhost:11434/v1",
+        "api_key": "ollama"
+    },
+    {
+        "model": "phi",
+        "base_url": "http://localhost:11434/v1",
+        "api_key": "ollama"
+    }
+]
